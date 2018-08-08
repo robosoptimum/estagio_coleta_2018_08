@@ -1,5 +1,4 @@
-# estagio_coleta_2018_08
-Prova de seleção estagiários coleta
+# Tarefa - Seleção Estagiários Optimum Ago/2018
 
 Faça um programa em python para consumir a API do Vagalume (https://api.vagalume.com.br/) e criar uma lista de artistas com dados relacionados. O programa de conter necessariamente:
  - Uma classe que faz as requisiçes para API, cujo construtor deve receber como parâmetro o nome do artista]
