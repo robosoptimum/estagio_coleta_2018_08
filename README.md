@@ -12,5 +12,5 @@ Faça um programa em python para consumir a [API do Vagalume](https://api.vagalu
   
 Você deve fazer esta tarefa até dia **15/08**, colocando no seu repositório do github e enviando o link para talentos@optimumsolucoes.com.
 
-Dúvidas podem ser colocadas [nesta issue](https://github.com/robosoptimum/estagio_coleta_2018_08/issues/1) Elas serão respondidas a partir do dia 13/08.
+Dúvidas podem ser colocadas [nesta issue](https://github.com/robosoptimum/estagio_coleta_2018_08/issues/1). Elas serão respondidas a partir do dia 13/08.
 
