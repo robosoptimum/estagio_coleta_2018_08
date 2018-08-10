@@ -4,8 +4,8 @@ Faça um programa em python para consumir a [API do Vagalume](https://api.vagalu
 - Uma classe que faz as requisições para API, cujo construtor deve receber como parâmetro o nome de um artista;
 - Classes para abstrair artista, ranking, gênero, músicas mais acessadas (toplyrics) e álbuns;
 - Métodos para:
-  - retornar as N músicas mais acessadas (N >= 1);
-  - retornar a posição do artista no ranking;
+  - retornar as N músicas mais acessadas do artista (N >= 1);
+  - retornar a posição do artista no ranking do Vagalume;
   - retornar o último álbum do artista;
   - retornar as palavras mais frequentes nas letras de músicas mais acessadas do artista. **Diferencial** utilize uma lista de [stopwords](https://en.wikipedia.org/wiki/Stop_words) para melhorar a análise das palavras mais frequentes.
   
